@@ -1,6 +1,6 @@
 Clone the Repository
 ----------------------------
-git clone 
+git clone https://github.com/AmitPaltankar/Pricing-Module-v2/edit/main/fyn/Pricing_Module/
 
 Navigate to the Project Directory
 ------------------------------------------
